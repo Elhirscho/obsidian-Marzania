@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marzania/Moolkov/Großrepublik Unmar.md",
+                "file": "category-folder/Some note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Großrepublik Unmar"
+              "title": "Some note"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marzania/Moolkov/Großrepublik Unmar.md",
+                "file": "category-folder/Some note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Großrepublik Unmar"
+              "title": "Backlinks for Some note"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marzania/Moolkov/Großrepublik Unmar.md",
+                "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Großrepublik Unmar"
+              "title": "Outgoing links from Some note"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marzania/Moolkov/Großrepublik Unmar.md",
+                "file": "category-folder/Some note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Großrepublik Unmar"
+              "title": "Outline of Some note"
             }
           }
         ]
@@ -186,9 +186,10 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "category-folder/index.md",
+    "Marzania/Moolkov/Großrepublik Unmar.md",
     "Marzania/Moolkov/Krell/Krell.md",
     "Marzania/Der Planet Marzania/Eckpunkte.md",
-    "Marzania/Moolkov/Großrepublik Unmar.md",
     "Marzania/Religionen/Korta.md",
     "Marzania/Moolkov/Moolkov.md",
     "Marzania/Der Planet Marzania/Planetare Seite.md",
@@ -216,7 +217,6 @@
     "Marzania/Rho System.md",
     "Marzania/Publish/Untitled.md",
     "Marzania/Publish",
-    "Marzania/Religionen/Mesan/Mesan.md",
     "Marzania/Religionen/Mesan",
     "Marzania/Religionen",
     "Marzania/Der Planet Marzania",
