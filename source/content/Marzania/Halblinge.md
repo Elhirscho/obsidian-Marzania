@@ -1,0 +1,3 @@
+Halblingeauf [[Marzania]] sind ein kleinwüchsiges Volk, welches normalerweise ein sehr ruhiges und auf Komfort ausgerichtetes Leben führt. Halblinge sind jedoch sehr misstrauisch gegenüber Fremden, und allem was sie generell nicht kennen. So können sie schnell auch ihr friedliches Leben aufgeben und zu unangenehmen Zeitgenossen werden.
+
+Sie leben in kleinen Kommunen organisiert beisammen und legen keinen allzu großen Wert auf staatliche Führung. Halblinge findet man hauptsächlich auf der [[Planetare Seite|Planetaren Seite]] von [[Zarman]]. 

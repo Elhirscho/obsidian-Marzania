@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "8392fb1d2cfceace",
+    "type": "split",
+    "children": [
+      {
+        "id": "e838a07a9a96591e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6359f5d8e8b8aea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zarman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zarman"
+            }
+          },
+          {
+            "id": "6cbe44c46c89a48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zarman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zarman"
+            }
+          },
+          {
+            "id": "bb58fd74180d490b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moolkov/Moolkov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moolkov"
+            }
+          },
+          {
+            "id": "b0dfedab312b4345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religionen/Korta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Korta"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0067f7d95abf180b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6d78dfe06d8000a9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b873b160b6503245",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Zarman",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "08ad9788ff9a7dc3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c42189ac35977b91",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2d30ce60c98c8720",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2cba6127d6aef6de",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Farnza.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2b732c69958e1ce5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "f8eabbf4081a49a1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "58ecf8e731beb410",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6cbe44c46c89a48c",
+  "lastOpenFiles": [
+    "Moolkov/Moolkov.md",
+    "Zarman.md",
+    "Halblinge.md",
+    "Religionen/Mesan/Mesan.md",
+    "Moolkov/Farnza/Farnzheim.md",
+    "Moolkov/Menschen.md",
+    "Der Planet Marzania/Planetare Seite.md",
+    "Moolkov/Krell/Krell.md",
+    "Seitenkrieg Moolkov.md",
+    "Moolkov/Großrepublik Unmar.md",
+    "Religionen/Mesan/Entität.md",
+    "Moolkov/Farnza/Farnza.md",
+    "Religionen/Mesan/Hauptstädte.md",
+    "Religionen/Mesan",
+    "Moolkov/Farnza",
+    "Der Planet Marzania/Kartenausrichtung.md",
+    "Moolkov/Warlan/Warlan.md",
+    "Publish/Untitled.md",
+    "Moolkov/Farnza/Wiederstand von Farnza.md",
+    "Publish",
+    "Moolkov/Farnza/Militär von Farnza.md",
+    "Moolkov/Warlan/Henath.md",
+    "Religionen/Korta.md",
+    "Seen.md",
+    "Der Planet Marzania/Eckpunkte.md",
+    "Der Planet Marzania/Marzania.md",
+    "Rho System.md",
+    "Moolkov/Krell/Neckar.md",
+    "Ökosystem.md",
+    "Religionen",
+    "Moolkov/Warlan",
+    "Moolkov/Krell",
+    "Moolkov",
+    "Der Planet Marzania"
+  ]
+}

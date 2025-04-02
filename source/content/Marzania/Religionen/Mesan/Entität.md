@@ -1,0 +1,1 @@
+Die Entität ist das Konzept der Kirche der [[Mesan]]. Sie wird als Gesamtheit alles Lebens angesehen. Ihr wird jedoch kein eigenes Bewusstsein zugeschrieben, jedoch auf jeden Fall eine göttliche Energie.
