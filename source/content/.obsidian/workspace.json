@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marzania/Der Planet Marzania/Eckpunkte.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eckpunkte"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marzania/Der Planet Marzania/Eckpunkte.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eckpunkte"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marzania/Der Planet Marzania/Eckpunkte.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eckpunkte"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marzania/Der Planet Marzania/Eckpunkte.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eckpunkte"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,11 +186,11 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Marzania/Der Planet Marzania/Eckpunkte.md",
     "category-folder/Some note.md",
     "category-folder/index.md",
     "Marzania/Moolkov/Großrepublik Unmar.md",
     "Marzania/Moolkov/Krell/Krell.md",
-    "Marzania/Der Planet Marzania/Eckpunkte.md",
     "Marzania/Religionen/Korta.md",
     "Marzania/Moolkov/Moolkov.md",
     "Marzania/Der Planet Marzania/Planetare Seite.md",
