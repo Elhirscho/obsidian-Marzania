@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marzania/Zarman.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zarman"
+              "title": "index"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marzania/Zarman.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zarman"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marzania/Zarman.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zarman"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marzania/Zarman.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zarman"
+              "title": "Outline of index"
             }
           }
         ]
@@ -200,14 +200,25 @@
   },
   "active": "58756cbc4ee6fd8a",
   "lastOpenFiles": [
-    "Währung.md",
+    "Index Ordner/Moolkov Ordner.md",
     "index.md",
+    "Index Ordner/Der Planet Marzania.md",
+    "Index Ordner/Religionen.md",
+    "Index Ordner/Zarman Ordner.md",
+    "Zarman",
+    "Index Ordner/Warlan Ordner.md",
+    "Marzania/Religionen/Korta",
+    "Index Ordner/Krell Ordner.md",
+    "Index Ordner/Farnza Ordner.md",
+    "category-folder/index.md",
+    "Zarman/Zarman.md",
+    "Index Ordner",
+    "Marzania/Der Planet Marzania/Währung.md",
     "Marzania/Der Planet Marzania/Eckpunkte.md",
     "category-folder/Some note.md",
-    "category-folder/index.md",
     "Marzania/Moolkov/Großrepublik Unmar.md",
     "Marzania/Moolkov/Krell/Krell.md",
-    "Marzania/Religionen/Korta.md",
+    "Marzania/Religionen/Korta/Korta.md",
     "Marzania/Moolkov/Moolkov.md",
     "Marzania/Der Planet Marzania/Planetare Seite.md",
     "Marzania/Der Planet Marzania/Marzania.md",
@@ -218,23 +229,12 @@
     "Marzania/Moolkov/Krell/Zalk.md",
     "Marzania/Moolkov/Krell/Neckar.md",
     "Marzania/Moolkov/Krell/Marton.md",
-    "Marzania/Moolkov/Krell/Kailan Krell.md",
-    "Marzania/Moolkov/Krell/Helath Krell.md",
     "Marzania/Moolkov/Krell",
-    "Marzania/Moolkov/Krieg gegen Zarman.md",
-    "Marzania/Moolkov/Farnza/Wiederstand von Farnza.md",
-    "Marzania/Moolkov/Farnza/Farnzheim.md",
     "Marzania/Moolkov/Farnza",
-    "Marzania/Moolkov/Warlan/Warlan.md",
-    "Marzania/Moolkov/Warlan/Henath.md",
     "Marzania/Moolkov/Warlan",
-    "Marzania/Moolkov/Göttliche Legitimität.md",
     "Marzania/Moolkov",
     "Marzania/Publish",
     "Marzania/Religionen/Mesan",
-    "Marzania/Religionen",
-    "Marzania/Der Planet Marzania",
-    "Marzania",
-    "category-folder"
+    "Marzania/Religionen"
   ]
 }
