@@ -4,3 +4,5 @@
 - [[Planetare Seite]]
 - [[Quadranten]]
 - [[Schnittlinie]]
+- [[Staat]]
+- [[Währung]]

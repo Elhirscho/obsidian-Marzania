@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brandawik.md",
+                "file": "Index Ordner/Der Planet Marzania.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brandawik"
+              "title": "Der Planet Marzania"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brandawik.md",
+                "file": "Index Ordner/Der Planet Marzania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Brandawik"
+              "title": "Backlinks for Der Planet Marzania"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brandawik.md",
+                "file": "Index Ordner/Der Planet Marzania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Brandawik"
+              "title": "Outgoing links from Der Planet Marzania"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brandawik.md",
+                "file": "Index Ordner/Der Planet Marzania.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Brandawik"
+              "title": "Outline of Der Planet Marzania"
             }
           }
         ]
@@ -200,9 +200,18 @@
   },
   "active": "58756cbc4ee6fd8a",
   "lastOpenFiles": [
-    "Brawika.md",
-    "Brandawik.md",
-    "Tillo Flinkfuß.md",
+    "index.md",
+    "Index Ordner/Moolkov Ordner.md",
+    "Index Ordner/Farnza Ordner.md",
+    "Index Ordner/Krell Ordner.md",
+    "Index Ordner/Warlan Ordner.md",
+    "Index Ordner/Zarman Ordner.md",
+    "Index Ordner/Brandawik Ordner.md",
+    "Index Ordner/Untitled",
+    "Zarman/Brandawik/Brandawik.md",
+    "Zarman/Brandawik",
+    "Zarman/Brandawik/Brawika.md",
+    "Zarman/Brandawik/Tillo Flinkfuß.md",
     "Zarman/Zarman.md",
     "Marzania/Moolkov/Moolkov.md",
     "Marzania/Moolkov/Warlan/Warlan.md",
@@ -211,30 +220,21 @@
     "Marzania/Moolkov/Krell/Marton.md",
     "Marzania/Moolkov/Krell/Krell.md",
     "Marzania/Moolkov/Krieg gegen Zarman.md",
-    "Zarman'sche Stammeskrieg.md",
-    "index.md",
-    "Index Ordner/Moolkov Ordner.md",
+    "Zarman/Zarman'sche Stammeskrieg.md",
     "Index Ordner/Der Planet Marzania.md",
     "Index Ordner/Religionen.md",
-    "Index Ordner/Zarman Ordner.md",
     "Zarman",
-    "Index Ordner/Warlan Ordner.md",
     "Marzania/Religionen/Korta",
-    "Index Ordner/Krell Ordner.md",
-    "Index Ordner/Farnza Ordner.md",
     "category-folder/index.md",
     "Index Ordner",
     "Marzania/Der Planet Marzania/Währung.md",
     "Marzania/Der Planet Marzania/Eckpunkte.md",
     "category-folder/Some note.md",
     "Marzania/Moolkov/Großrepublik Unmar.md",
-    "Marzania/Religionen/Korta/Korta.md",
     "Marzania/Moolkov/Krell",
     "Marzania/Moolkov/Farnza",
     "Marzania/Moolkov/Warlan",
     "Marzania/Moolkov",
-    "Marzania/Publish",
-    "Marzania/Religionen/Mesan",
-    "Marzania/Religionen"
+    "Marzania/Publish"
   ]
 }
