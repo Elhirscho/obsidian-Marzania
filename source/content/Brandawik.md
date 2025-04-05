@@ -1,0 +1,11 @@
+Brandawik ist einer von 5 Staaten auf der [[Planetare Seite|Planetaren Seite]] von [[Zarman]]. Regiert wird Brandawik von ihrem König [[Tillo Flinkfuß]]. Brandawik ist bekannt für ihre besonders ausgeprägte Entspanntheit. Zwar könnte man somit ersteinmal auf den Gedanken kommen dass Brandawik ganz und gar uninteressant ist, jedoch hat Brandawik viel zu bieten in Hinblick auf Handel und politische Beziehungen. Somit ist Brandawik oft der Kleber der ganz [[Zarman]] zusammenhält und dient häufig als Vermittler. Passend dazu ist Brandawik mittig gelegen, bezogen auf die anderen Länder. Die Hauptstadt ist [[Brawika]] und liegt auf dem Quadranten C3.
+
+#### Die Monarchie
+Der Titel des Königs wird in Brandawik vererbt und ist immer noch in Besitz der Familie Flinkfuß. Zur Zeit des innerseitlichen Krieges war der Stamm Flinkfuß, welcher sich letztendlich durchsetzen konnte und den Staat Brandawik um sich geschaart hatte. Auch wenn der Monarch die absolute Mach hat, so ist es doch Tradition dass viele Kompetenzen abgegeben werden. Entweder im Austausch für andere Gefälligkeiten (verpönt aber wird unter der Hand trotzdem gemacht) oder tatsächlich lediglich aufgrund von besonderen Fähigkeiten. Dies führt auch zu einer sehr effizienten und effektiven Führung jeglicher Bereiche.
+
+#### Religion
+Brandawik wird sekulär regiert. Dies kam vor allem zustande dadurch dass sich die Familie Flinkfuß mit militärischer Gewalt diesen Posten eroberte und ihn nicht durch oder mit Hilfe der Kirche erreicht hat. Auch wenn die Monarchie keine Verbindung zur [[Mesan]] hat, so ist die Religion der [[Mesan]] trotzdem allgegenwärtig in der Gesellschaft und nimmt somit einen wichtigen Teil Brandawiks ein. 
+
+
+#### Ökonomie
+Zarman ist der größte Exporteur an Bier auf ganz [[Marzania]]. Vor allem geht viel nach [[Dwarkon]]. Abgesehen davon sind die Halblinge sehr geschickt darin mit Lehm und Holz zu arbeiten. Aus diesen Materialien besteht fast alles was sich in einem [[Halblinge|Halbling]] Haushalt findet. Jedoch haben sie es auch zur Meisterschaft gebracht kunstvolle Objekte zu kreiren, die sich mittlerweile in den meisten wohlhabenden auf ganz [[Marzania]] finden.

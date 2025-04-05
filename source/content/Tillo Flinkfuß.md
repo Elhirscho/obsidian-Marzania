@@ -1,0 +1,2 @@
+Tillo Flinkfuß ist der aktuelle Monarch von [[Brandawik]]. Er ist ein Halbling und in der Gesellschaft sehr angesehen. Er ist ein sehr progressiver Herrscher und hat schon viel dafür gebracht sein Land weiterzubringen, was [[Brandawik]] im internationalen Vergleich in den letzten Jahren zu einem ernstzunehmenden Teilnehmer gemacht hat, bezogen auf Handel und internationale Beziehungen.
+Er hat eine Tochter, Lilla Flinkfuß. Seine Frau heißt Gerdra Flinkfuß.
