@@ -1,0 +1,2 @@
+Auf Marzania befinden sich sogenannte Dimensionsportale. Portale welche den direkten Weg in eine andere [[Dimension]] ermöglichen, auch wenn es noch andere kompliziertere Wege gibt. Zu 3 verschiedenen Dimensionen gibt es somit Zugang, wobei es natürlich Naturgemäß unendlich viele Dimensionen gibt.
+Die Dimensionsportale werden stark bewacht und befinden sich in der Kontrolle der jeweiligen Religion, welche vorherrschend in der Region ist. Allgemein sieht die gesamte Bevölkerung von [[Marzania]] in den Portalen etwas göttliches.

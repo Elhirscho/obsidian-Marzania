@@ -1,0 +1,2 @@
+Eine Dimension ist ein komplettes Universum welches sich parallel zu anderen Dimensionen abspielt. Es gibt unendlich viele dieser Dimensionen, und alle unterscheiden sich wenn auch nur in einer einzigen kleinen Winzigkeit.
+Es kann jedoch auch zu massiven Unterschieden kommen(siehe [[Spiegeldimension]]) bei welchen das normale Gehirn nicht einmal erfassen kann was passiert.

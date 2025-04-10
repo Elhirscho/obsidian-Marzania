@@ -1,0 +1,2 @@
+Die Spiegeldimension ist eine Dimension, die in den meisten Aspekten gespiegelt funktioniert bezogen auf die Hauptdimension mit [[Marzania]]. Zum Beispiel wird die Schwerkraft und weitere Physikalische Gesetze gegensätzlich wahrgenommen, aber auch Aspekte wie die Sprache werden gespiegelt genutzt.
+Das [[Dimensionsportal]] zur Spiegeldimension befindet sich auf [[Zarman]] und unterliegt der Kontrolle der [[Mesan]].

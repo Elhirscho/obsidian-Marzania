@@ -1,0 +1,1 @@
+Die Familie Kranhals ist die Verwaltende Familie in [[Tavellin]]. Beim Zusammenschluss der Stämme zu dem Staat [[Tavellin]] kam es zu internen Reibereien, wobei die Familie Kranhals am erfolgreichsten hervorging. Seither wird [[Tavellin]] von den Kranhalsens zwar verwaltet, jedoch gehen die Befugnisse nicht arg viel weiter als das. Von einer Herrschaft kann man hier nicht reden.

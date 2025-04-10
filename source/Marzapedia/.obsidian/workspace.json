@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Marzania/Zarman/Zarman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Zarman"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index Ordner/Der Planet Marzania.md",
+                "file": "Marzania/Zarman/Zarman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Der Planet Marzania"
+              "title": "Zarman"
             }
           }
         ],
@@ -200,19 +200,28 @@
   },
   "active": "58756cbc4ee6fd8a",
   "lastOpenFiles": [
+    "Marzania/Dimensionen/Dimension.md",
+    "Marzania/Dimensionen/Dimensionsportal.md",
+    "Marzania/Zarman/Zarman.md",
+    "Marzania/Zarman/Tavellin/Kranhals.md",
+    "Marzania/Zarman/Tavellin/Tavellin.md",
+    "Marzania/Dimensionen/Spiegeldimension.md",
+    "Marzania/Dimensionen",
+    "Index Ordner/Zarman Ordner.md",
+    "Index Ordner/Tavellin Ordner.md",
     "index.md",
+    "Marzania/Zarman/Tavellin",
+    "Marzania/Zarman/Brandawik/Brandawik.md",
+    "Index Ordner/Der Planet Marzania.md",
     "Index Ordner/Moolkov Ordner.md",
     "Index Ordner/Farnza Ordner.md",
     "Index Ordner/Krell Ordner.md",
     "Index Ordner/Warlan Ordner.md",
-    "Index Ordner/Zarman Ordner.md",
     "Index Ordner/Brandawik Ordner.md",
     "Index Ordner/Untitled",
-    "Zarman/Brandawik/Brandawik.md",
-    "Zarman/Brandawik",
-    "Zarman/Brandawik/Brawika.md",
-    "Zarman/Brandawik/Tillo Flinkfuß.md",
-    "Zarman/Zarman.md",
+    "Marzania/Zarman/Brandawik",
+    "Marzania/Zarman/Brandawik/Brawika.md",
+    "Marzania/Zarman/Brandawik/Tillo Flinkfuß.md",
     "Marzania/Moolkov/Moolkov.md",
     "Marzania/Moolkov/Warlan/Warlan.md",
     "Marzania/Moolkov/Warlan/Henath.md",
@@ -220,21 +229,12 @@
     "Marzania/Moolkov/Krell/Marton.md",
     "Marzania/Moolkov/Krell/Krell.md",
     "Marzania/Moolkov/Krieg gegen Zarman.md",
-    "Zarman/Zarman'sche Stammeskrieg.md",
-    "Index Ordner/Der Planet Marzania.md",
-    "Index Ordner/Religionen.md",
-    "Zarman",
+    "Marzania/Zarman/Zarman'sche Stammeskrieg.md",
+    "Marzania/Zarman",
     "Marzania/Religionen/Korta",
-    "category-folder/index.md",
     "Index Ordner",
-    "Marzania/Der Planet Marzania/Währung.md",
-    "Marzania/Der Planet Marzania/Eckpunkte.md",
-    "category-folder/Some note.md",
-    "Marzania/Moolkov/Großrepublik Unmar.md",
     "Marzania/Moolkov/Krell",
     "Marzania/Moolkov/Farnza",
-    "Marzania/Moolkov/Warlan",
-    "Marzania/Moolkov",
-    "Marzania/Publish"
+    "Marzania/Moolkov/Warlan"
   ]
 }
